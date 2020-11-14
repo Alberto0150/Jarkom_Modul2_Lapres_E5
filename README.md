@@ -22,3 +22,7 @@ Jawaban :
 ### 8. Domain http://semeruyyy.pw memiliki DocumentRoot pada /var/www/semeruyyy.pw. Awalnya web dapat diakses menggunakan alamat http://semeruyyy.pw/index.php/home.  
 Jawaban :     
 ![8](jawaban/8.JPG)  
+
+---
+## Kendala
+- Kurang teliti masalah penamaan 'yyy' sehingga harus memperbaiki di tengah jalan
