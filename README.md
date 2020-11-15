@@ -5,19 +5,19 @@ Jawaban :
 ![1](jawaban/1.JPG)  
 Revisi :  
 ![rev1](jawaban/rev1.JPG)  
-![rev1p2](jawaban/rev1p2.JPG)  
+![rev1p2](jawaban/rev1p2.jpg)  
 ### 2. alias http://www.semeruyyy.pw,  
 Jawaban :     
 ![2](jawaban/2.JPG)  
 Revisi :  
 ![rev2](jawaban/rev2.JPG)  
-![rev2p2](jawaban/rev2p2.JPG)  
+![rev2p2](jawaban/rev2p2.jpg)  
 ### 3. subdomain http://penanjakan.semeruyyy.pw yang diatur DNS-nya pada MALANG dan mengarah ke IP Server PROBOLINGGO  
 Jawaban :     
 ![3](jawaban/3.JPG)  
 Revisi :  
 ![rev3](jawaban/rev3.JPG)  
-![rev3p2](jawaban/rev3p2.JPG)  
+![rev3p2](jawaban/rev3p2.jpg)  
 ### 4. reverse domain untuk domain utama.  
 Jawaban :     
 ![4](jawaban/4.JPG)  
