@@ -3,6 +3,9 @@
 ### 1. alamat http://semeruyyy.pw yang memiliki  
 Jawaban :     
 ![1](jawaban/1.JPG)  
+Revisi :  
+![1.1](jawaban/1.1.JPG)  
+![1.2](jawaban/1.2.JPG)  
 ### 2. alias http://www.semeruyyy.pw,  
 Jawaban :     
 ![2](jawaban/2.JPG)  
